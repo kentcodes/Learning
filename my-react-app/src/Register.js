@@ -59,9 +59,4 @@ function Register() {
     );
 }
 
-<p>
-    Already have an account? <a href="/login">Log in here</a>.
-</p>
-
-
 export default Register;
